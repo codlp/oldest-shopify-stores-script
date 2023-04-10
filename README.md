@@ -2,7 +2,7 @@
 
 ## Context
 
-Yesterday, I initiated an Easter hunt to find the oldest still-running Shopify stores🥚
+On April 7th, I initiated an Easter hunt to find the oldest still-running Shopify stores.
 
 I shared a Google Sheet where we could all add the old stores that we found:
 https://docs.google.com/spreadsheets/d/1iG0bVFSuXs3PhYkrkYP4Lk3AakbNXxclYnA6rNzE0no/edit#gid=1574186361
@@ -11,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1iG0bVFSuXs3PhYkrkYP4Lk3AakbNXxclYnA6rNzE
 
 It was amazing to see all those ancient stores! Their layouts differ from the themes layouts that we know today and their content were often very funny.
 
-Today, I'm happy to announce that we have a winner: fifarules(.)myshopify.com (shopId n°8).
+The winner is fifarules(.)myshopify.com (shopId n°8).
 
 This store was found by Fabio Filippi (https://www.linkedin.com/in/0xfab10/).
 
