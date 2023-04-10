@@ -1,1 +1,1 @@
-# old-shopify-stores-script
+# Oldest Shopify Stores Script
