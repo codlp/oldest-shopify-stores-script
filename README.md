@@ -27,6 +27,10 @@ After trying all the shop domains ideas that he had, Fabio decided to "work smar
 
 Based on this generic URL (https://checkout.shopify.com/[SHOPID]/sandbox/google_analytics_iframe), I wrote this ruby script to retrieve the URLs of the 100 oldest Shopify stores.
 
+## Tech stack
+
+Next, React, Shopify's Polaris library of React components, Vercel.
+
 ## How to use this script
 
 You can use this script to retrieve the URLs of any range of Shopify stores based on their shopId.
