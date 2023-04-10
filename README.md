@@ -11,15 +11,15 @@ https://docs.google.com/spreadsheets/d/1iG0bVFSuXs3PhYkrkYP4Lk3AakbNXxclYnA6rNzE
 
 It was amazing to see all those ancient stores! Their layouts differ from the themes layouts that we know today and their content were often very funny.
 
-The winner is fifarules(.)myshopify.com (shopId n°8).
+The winner is https://fifarules.myshopify.com (shopId n°8).
 
 This store was found by Fabio Filippi (https://www.linkedin.com/in/0xfab10/).
 
 After trying all the shop domains ideas that he had, Fabio decided to "work smarter not harder". He figured out a trick:
 
-1. Inspect the checkout page's code of one of the old stores (shopId n°13). There, he found an iframe with this src link: "https://checkout.shopify(.)com/13/sandbox/google_analytics_iframe?sandbox_token=WI-1sqRBEh1Mcx_6OcT2Pg"
+1. Inspect the checkout page's code of one of the old stores (shopId n°13). There, he found an iframe with this src link: "https://checkout.shopify.com/13/sandbox/google_analytics_iframe?sandbox_token=WI-1sqRBEh1Mcx_6OcT2Pg"
 
-2. From this URL, he deducted a generic URL that would allow him to retrieve any store URL based on its shopId: https://checkout.shopify(.)com/[SHOPID]/sandbox/google_analytics_iframe
+2. From this URL, he deducted a generic URL that would allow him to retrieve any store URL based on its shopId: https://checkout.shopify.com/[SHOPID]/sandbox/google_analytics_iframe
 
 3. After trying this URL for a specific shopId, he checks the page's source code and finds the shop URL.
 
