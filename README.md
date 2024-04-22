@@ -2,7 +2,7 @@
 
 ## Context
 
-On April 7th, I initiated an Easter hunt to find the oldest still-running Shopify stores.
+On April 7th 2023, I initiated an Easter hunt to find the oldest still-running Shopify stores.
 
 I shared a Google Sheet where we could all add the old stores that we found:
 https://docs.google.com/spreadsheets/d/1iG0bVFSuXs3PhYkrkYP4Lk3AakbNXxclYnA6rNzE0no/edit#gid=1574186361
